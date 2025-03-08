@@ -1,4 +1,3 @@
 Hello Git
 This is a second line.
 This is a second line.
-merge conflict test
